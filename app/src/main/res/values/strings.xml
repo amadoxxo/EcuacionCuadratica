@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ecuacion</string>
+    <string name="titulo">Ecuacion cuadratica</string>
+    <string name="etVariableA">Variable ´a´</string>
+    <string name="etVariableB">Variable ´b´</string>
+    <string name="etVariableC">Variable ´c´</string>
+    <string name="btnCalcular">Calcular</string>
+</resources>
